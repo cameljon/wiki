@@ -3,5 +3,5 @@
 
 # Class Quick Links
 
-[EECS 210](/wiki/eecs-210)
-EECS 368
+> [EECS 210](/wiki/eecs-210)
+> [EECS 368](/wiki/eecs-368)
