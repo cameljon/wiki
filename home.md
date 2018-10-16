@@ -1,7 +1,7 @@
 <!-- TITLE: EECS Classes -->
 <!-- SUBTITLE: Wiki's for KU classes -->
 
-# Wiki
+# Class Quick Links
 
 EECS 210
 EECS 368
