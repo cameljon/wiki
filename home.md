@@ -3,4 +3,5 @@
 
 # Wiki
 
-This is the wiki page
+EECS 210
+EECS 368
