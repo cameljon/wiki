@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of EECS 368 -->
 
 # Lecture List
-- [Lecture 1 (Date:)](./lecture01)
+- [Lecture 1 (Date:)](/wiki/eecs-368/lecture01)
 - Lecture 2 (Date:)
 - Lecture 3 (Date:)
 - Lecture 4 (Date:)
